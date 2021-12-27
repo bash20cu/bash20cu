@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bash20cu
-- 👀 I’m interested in ... Dev 
+- 👀 I’m interested in ... Python and C# 
 - 🌱 I’m currently learning ... Software Engineer at UIA
 - 💞️ I’m looking to collaborate on ... C# Projects and Python
 - 📫 How to reach me ... 
